@@ -1,0 +1,29 @@
+name: boxoff
+version: 1.0.0
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.16.0
+  http: ^0.12.0+2
+  fluro: ^1.5.1
+  pull_to_refresh: ^1.5.7
+  transparent_image: ^1.0.0
+  bubble_tab_indicator: ^0.1.4
+  provider: ^4.0.1
+  shared_preferences: ^0.5.6
+  flutter_svg: ^0.15.0
+  flutter_html: ^0.11.1
+  url_launcher: ^5.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
