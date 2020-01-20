@@ -1,4 +1,3 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/Zivsteve/BoxOff?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/Zivsteve/BoxOff?style=flat-square)
 
 <img src="./.github/images/showcase.png" alt="Showcase">
